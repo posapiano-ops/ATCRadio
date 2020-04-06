@@ -360,11 +360,11 @@ body {
 
 .logo {
   top: 5vmin;
-  right: 1vmin;
+  right: 2vmin;
   font-family: 'ATC Timberline';
   color: #472c4b;
   text-transform: uppercase;
-  font-size: 2.6vmin;
+  font-size: 2.3vmin;
   line-height: 1;
 }
 
